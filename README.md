@@ -9,7 +9,7 @@ command line interface with: nyc
 hot loader with: nodemon
 
 
-##Mocha 
+## Mocha 
 is the main testing framework in this test suite. It provides functions to execute tests and handle logging test results to the terminal.
 
 ## Chai 
